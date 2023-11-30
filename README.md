@@ -8,6 +8,13 @@ A list of companies boycotting the X platform:
  - IBM,
  - The Walt Disney Company
  - SMA Solar
+ - Paramount
+ - Washington Post
+ - NBC
+ - MARVEL
+ - IBM
+ - Sony Pictures
+ - The Colbert Show
 
 
 Elon Musk pushed back on advertisers boycotting X over antisemitism and other hate speech on the platform formerly known as Twitter during the 2023 DealBook Summit in New York on Wednesday.
