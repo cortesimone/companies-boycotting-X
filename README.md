@@ -1,3 +1,6 @@
+![Elon Musk](https://raw.githubusercontent.com/cortesimone/companies-boycotting-X/main/GALlCJQWIAA_p98.webp "Elon Musk")
+
+
 # companies-boycotting-X
 A list of companies boycotting the X platform:
  - Apple, 
